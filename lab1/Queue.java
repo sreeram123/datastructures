@@ -1,11 +1,3 @@
-/*
- * Queue.java
- * 
- * Navaneeth S 
- * AM.EN.U4CSE16144
- * 21/7/17
- * 
- */
 
 import java.util.*;
 public class Queue {

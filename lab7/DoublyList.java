@@ -1,4 +1,4 @@
-package dsalab7;
+
 
 public class DoublyList {
 	public Dnode head=null;

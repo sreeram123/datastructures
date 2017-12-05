@@ -1,4 +1,4 @@
-package dsalab6;
+
 
 public class LinkedList {
 	public Node head=null;

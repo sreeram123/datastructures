@@ -1,4 +1,3 @@
-package Sample;
 
 import java.util.Scanner;
 public class DoubleStack {

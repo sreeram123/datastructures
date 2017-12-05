@@ -1,4 +1,4 @@
-package dsalab6;
+
 
 import java.util.Scanner;
 
