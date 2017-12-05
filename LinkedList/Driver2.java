@@ -1,7 +1,7 @@
 
 
 import java.util.Scanner;
-public class Driver {
+public class Driver2 {
 	public static void main(String args[])
 	{
 		CircularList c = new CircularList();
